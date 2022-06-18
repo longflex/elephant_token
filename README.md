@@ -1,2 +1,2 @@
-# Truffle-ERC721
-### Repo for deploying and minting NFTs for opensea with truffle and ipfs
+# communication about blockchain using webRTC
+### backend laravel and frontend react/nextjs on graphql/appolo and firebase
