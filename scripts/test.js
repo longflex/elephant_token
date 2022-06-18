@@ -4,6 +4,7 @@ const fs = require('fs');
 const path = require("path");
 require('dotenv').config()
 
+const MNEMONICa = process.env.MNEMONIC
 const MNEMONIC = process.env.MNEMONIC
 const API_KEY = process.env.NODE_KEY
 
