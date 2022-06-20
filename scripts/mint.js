@@ -5,6 +5,9 @@ const path = require("path");
 require('dotenv').config()
 
 //*vars
+//*vars
+const MNEMONIC2 = process.env.MNEMONIC
+const MNEMONIC1 = process.env.MNEMONIC
 const MNEMONIC = process.env.MNEMONIC
 const API_KEY = process.env.NODE_KEY
 
