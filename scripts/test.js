@@ -15,6 +15,7 @@ const MATIC = `https://rpc-mainnet.maticvigil.com/v1/${API_KEY}`
 const NUM_ITEMS = 5;
 
 
+let rawdata1 = fs.readFileSync(path.resolve(__dirname, "../build/contracts/GameItem.json"));
 let rawdata = fs.readFileSync(path.resolve(__dirname, "../build/contracts/GameItem.json"));
 let contractAbi = JSON.parse(rawdata);
 const NFT_ABI = contractAbi.abi
