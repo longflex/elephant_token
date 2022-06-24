@@ -1,8 +1,9 @@
 {
   "name": "truffle-tutorial-erc721",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0",
+  "description": "3132321",
   "main": "truffle-config.js",
+  
   "dependencies": {
     "@openzeppelin/contracts": "^4.3.0",
     "@truffle/hdwallet-provider": "^1.4.0",
